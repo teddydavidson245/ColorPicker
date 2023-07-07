@@ -4,7 +4,6 @@ const App = () => {
   return (
     <div id="container">
       <div id="navbar">
-        <h1>Hi!</h1>
         <div>Currently selected: </div>
         <div className="red">red</div>
       </div>
